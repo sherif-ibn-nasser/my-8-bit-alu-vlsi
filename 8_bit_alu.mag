@@ -1,0 +1,40 @@
+magic
+tech scmos
+timestamp 1734629465
+use alu_ports  alu_ports_0
+timestamp 1734629465
+transform 1 0 12 0 1 64
+box -12 3 637 74
+use one_bit_alu  one_bit_alu_0
+timestamp 1734629465
+transform 1 0 83 0 1 0
+box -94 -5 602 69
+use one_bit_alu  one_bit_alu_1
+timestamp 1734629465
+transform 1 0 83 0 1 -69
+box -94 -5 602 69
+use one_bit_alu  one_bit_alu_2
+timestamp 1734629465
+transform 1 0 83 0 1 -138
+box -94 -5 602 69
+use one_bit_alu  one_bit_alu_3
+timestamp 1734629465
+transform 1 0 83 0 1 -207
+box -94 -5 602 69
+use one_bit_alu  one_bit_alu_4
+timestamp 1734629465
+transform 1 0 83 0 1 -276
+box -94 -5 602 69
+use one_bit_alu  one_bit_alu_5
+timestamp 1734629465
+transform 1 0 83 0 1 -345
+box -94 -5 602 69
+use one_bit_alu  one_bit_alu_6
+timestamp 1734629465
+transform 1 0 83 0 1 -414
+box -94 -5 602 69
+use one_bit_alu  one_bit_alu_7
+timestamp 1734629465
+transform 1 0 83 0 1 -483
+box -94 -5 602 69
+<< end >>

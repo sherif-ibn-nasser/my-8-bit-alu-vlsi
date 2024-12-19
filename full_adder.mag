@@ -1,0 +1,203 @@
+magic
+tech scmos
+timestamp 1734625758
+<< nwell >>
+rect 0 20 154 40
+<< polysilicon >>
+rect 9 36 13 42
+rect 19 36 23 42
+rect 37 36 41 42
+rect 47 36 51 42
+rect 57 36 61 42
+rect 75 36 79 42
+rect 85 36 89 42
+rect 95 36 99 42
+rect 105 36 109 42
+rect 123 36 127 42
+rect 132 36 136 42
+rect 141 36 145 42
+rect 9 4 13 24
+rect 19 4 23 24
+rect 37 4 41 24
+rect 47 4 51 24
+rect 57 4 61 24
+rect 75 4 79 24
+rect 85 4 89 24
+rect 95 4 99 24
+rect 105 20 109 24
+rect 107 16 109 20
+rect 105 4 109 16
+rect 123 4 127 24
+rect 132 4 136 24
+rect 141 4 145 24
+rect 9 -6 13 0
+rect 19 -6 23 0
+rect 37 -6 41 0
+rect 47 -6 51 0
+rect 57 -6 61 0
+rect 75 -6 79 0
+rect 85 -6 89 0
+rect 95 -6 99 0
+rect 105 -6 109 0
+rect 123 -6 127 0
+rect 132 -6 136 0
+rect 141 -6 145 0
+<< ndiffusion >>
+rect 8 0 9 4
+rect 13 0 19 4
+rect 23 0 28 4
+rect 36 0 37 4
+rect 41 0 42 4
+rect 46 0 47 4
+rect 51 0 52 4
+rect 56 0 57 4
+rect 61 0 62 4
+rect 74 0 75 4
+rect 79 0 80 4
+rect 84 0 85 4
+rect 89 0 90 4
+rect 94 0 95 4
+rect 99 0 100 4
+rect 104 0 105 4
+rect 109 0 110 4
+rect 122 0 123 4
+rect 127 0 132 4
+rect 136 0 141 4
+rect 145 0 146 4
+<< pdiffusion >>
+rect 8 24 9 36
+rect 13 24 19 36
+rect 23 24 24 36
+rect 36 24 37 36
+rect 41 32 42 36
+rect 46 32 47 36
+rect 41 24 47 32
+rect 51 24 52 36
+rect 56 24 57 36
+rect 61 24 62 36
+rect 74 32 75 36
+rect 70 24 75 32
+rect 79 24 80 36
+rect 84 24 85 36
+rect 89 32 90 36
+rect 94 32 95 36
+rect 89 24 95 32
+rect 99 24 100 36
+rect 104 24 105 36
+rect 109 24 110 36
+rect 122 24 123 36
+rect 127 24 132 36
+rect 136 24 141 36
+rect 145 24 146 36
+<< metal1 >>
+rect 0 46 154 50
+rect 4 36 8 46
+rect 42 36 46 46
+rect 70 36 74 46
+rect 90 36 94 46
+rect 118 36 122 46
+rect 36 24 52 28
+rect 84 24 100 28
+rect 24 20 28 24
+rect 110 20 114 24
+rect 146 20 150 24
+rect 4 16 103 20
+rect 110 16 150 20
+rect 4 4 8 16
+rect 32 8 56 12
+rect 32 4 36 8
+rect 52 4 56 8
+rect 62 4 66 16
+rect 80 8 104 12
+rect 80 4 84 8
+rect 100 4 104 8
+rect 110 4 114 16
+rect 146 4 150 16
+rect 42 -10 46 0
+rect 70 -10 74 0
+rect 90 -10 94 0
+rect 118 -10 122 0
+rect 0 -14 154 -10
+<< ntransistor >>
+rect 9 0 13 4
+rect 19 0 23 4
+rect 37 0 41 4
+rect 47 0 51 4
+rect 57 0 61 4
+rect 75 0 79 4
+rect 85 0 89 4
+rect 95 0 99 4
+rect 105 0 109 4
+rect 123 0 127 4
+rect 132 0 136 4
+rect 141 0 145 4
+<< ptransistor >>
+rect 9 24 13 36
+rect 19 24 23 36
+rect 37 24 41 36
+rect 47 24 51 36
+rect 57 24 61 36
+rect 75 24 79 36
+rect 85 24 89 36
+rect 95 24 99 36
+rect 105 24 109 36
+rect 123 24 127 36
+rect 132 24 136 36
+rect 141 24 145 36
+<< polycontact >>
+rect 103 16 107 20
+<< ndcontact >>
+rect 4 0 8 4
+rect 32 0 36 4
+rect 42 0 46 4
+rect 52 0 56 4
+rect 62 0 66 4
+rect 70 0 74 4
+rect 80 0 84 4
+rect 90 0 94 4
+rect 100 0 104 4
+rect 110 0 114 4
+rect 118 0 122 4
+rect 146 0 150 4
+<< pdcontact >>
+rect 4 24 8 36
+rect 24 24 28 36
+rect 32 24 36 36
+rect 42 32 46 36
+rect 52 24 56 36
+rect 62 24 66 36
+rect 70 32 74 36
+rect 80 24 84 36
+rect 90 32 94 36
+rect 100 24 104 36
+rect 110 24 114 36
+rect 118 24 122 36
+rect 146 24 150 36
+<< labels >>
+flabel metal1 0 46 32 50 0 FreeMono 40 0 0 0 VDD
+port 1 nsew
+flabel metal1 0 -14 32 -10 0 FreeMono 40 0 0 0 GND
+port 3 nsew
+flabel metal1 146 16 150 20 0 FreeMono 40 0 0 0 NSum
+flabel metal1 4 16 103 20 0 FreeMono 40 0 0 0 NCarry
+flabel polysilicon 9 -6 13 -2 0 FreeMono 24 0 0 0 X
+port 5 nsew
+flabel polysilicon 37 -6 41 -2 0 FreeMono 24 0 0 0 X
+port 7 nsew
+flabel polysilicon 95 -6 99 -2 0 FreeMono 24 0 0 0 X
+port 9 nsew
+flabel polysilicon 123 -6 127 -2 0 FreeMono 24 0 0 0 X
+port 11 nsew
+flabel polysilicon 19 -6 23 -2 0 FreeMono 24 0 0 0 Y
+port 13 nsew
+flabel polysilicon 47 -6 51 -2 0 FreeMono 24 0 0 0 Y
+port 15 nsew
+flabel polysilicon 85 -6 89 -2 0 FreeMono 24 0 0 0 Y
+port 17 nsew
+flabel polysilicon 132 -6 136 -2 0 FreeMono 24 0 0 0 Y
+port 19 nsew
+flabel polysilicon 57 -6 61 -2 0 FreeMono 24 0 0 0 CIn
+port 21 nsew
+flabel polysilicon 75 -6 79 -2 0 FreeMono 24 0 0 0 CIn
+port 23 nsew
+<< end >>

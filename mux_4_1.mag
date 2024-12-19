@@ -1,0 +1,45 @@
+magic
+tech scmos
+timestamp 1734629465
+<< metal1 >>
+rect 14 45 49 49
+rect 14 42 18 45
+rect 45 42 49 45
+rect 65 45 100 49
+rect 65 42 69 45
+rect 96 42 100 45
+use mux_2_1  mux_2_1_0
+timestamp 1734626358
+transform 1 0 0 0 1 6
+box 0 -6 32 42
+use mux_2_1  mux_2_1_1
+timestamp 1734626358
+transform 1 0 82 0 1 6
+box 0 -6 32 42
+use mux_2_1  mux_2_1_2
+timestamp 1734626358
+transform 1 0 41 0 1 6
+box 0 -6 32 42
+<< labels >>
+flabel space 55 10 59 30 0 FreeMono 40 0 0 0 OUT
+flabel space 4 6 8 10 0 FreeMono 40 0 0 0 X0
+port 2 nsew
+flabel space 24 6 28 10 0 FreeMono 40 0 0 0 X1
+port 3 nsew
+flabel space 86 6 90 10 0 FreeMono 40 0 0 0 X2
+port 4 nsew
+flabel space 106 6 110 10 0 FreeMono 40 0 0 0 X3
+port 5 nsew
+flabel space 14 0 18 4 0 FreeMono 40 0 0 0 S0
+port 7 nsew
+flabel space 96 0 100 4 0 FreeMono 40 0 0 0 S0
+port 8 nsew
+flabel metal1 96 44 100 48 0 FreeMono 40 0 0 0 NS0
+port 11 nsew
+flabel metal1 14 44 18 48 0 FreeMono 40 0 0 0 NS0
+port 12 nsew
+flabel space 55 44 59 48 0 FreeMono 40 0 0 0 NS1
+port 13 nsew
+flabel space 55 0 59 4 0 FreeMono 40 0 0 0 S1
+port 14 nsew
+<< end >>

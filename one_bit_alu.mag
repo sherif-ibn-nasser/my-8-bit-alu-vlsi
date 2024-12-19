@@ -1,0 +1,325 @@
+magic
+tech scmos
+timestamp 1734637502
+<< polysilicon >>
+rect 9 60 363 64
+rect 570 61 571 65
+rect 9 56 13 60
+rect 50 56 54 60
+rect 122 56 126 60
+rect 183 56 187 60
+rect 245 56 249 60
+rect 273 56 277 60
+rect 331 56 335 60
+rect 359 56 363 60
+rect 567 52 571 61
+rect -44 30 -28 34
+rect 293 26 315 30
+rect 418 26 422 28
+rect 433 26 437 33
+rect 476 30 480 34
+rect 459 28 480 30
+rect 490 26 494 28
+rect 418 24 494 26
+rect -11 14 -10 18
+rect -11 12 -7 14
+rect -22 8 -7 12
+rect 1 7 4 11
+rect 0 4 4 7
+rect 19 4 23 8
+rect 60 4 64 8
+rect 91 4 95 8
+rect 163 4 167 8
+rect 396 8 400 12
+rect 469 10 471 14
+rect 469 8 473 10
+rect 255 4 259 8
+rect 283 4 287 8
+rect 321 4 325 8
+rect 368 4 372 8
+rect 396 4 413 8
+rect 418 4 422 5
+rect 458 4 473 8
+rect 0 0 372 4
+rect 413 2 417 4
+rect 495 2 499 4
+rect 413 0 499 2
+<< metal1 >>
+rect -51 60 0 64
+rect 32 60 41 64
+rect 73 60 82 64
+rect 104 60 113 64
+rect 135 60 144 64
+rect 196 60 205 64
+rect 227 60 236 64
+rect 390 60 522 64
+rect 564 61 566 65
+rect 577 57 581 58
+rect -58 53 -13 57
+rect 292 53 293 57
+rect 381 53 382 57
+rect -58 50 -54 53
+rect -17 50 -13 53
+rect 403 45 407 53
+rect 525 53 529 57
+rect 454 45 458 53
+rect 577 45 581 53
+rect 433 37 437 38
+rect -94 30 -68 34
+rect -1 30 7 34
+rect 207 30 213 34
+rect 220 30 240 34
+rect 476 38 480 39
+rect -48 26 -44 30
+rect 526 26 561 30
+rect -94 22 -65 26
+rect -10 18 -6 20
+rect -37 11 -33 14
+rect -57 7 -33 11
+rect -27 11 -23 14
+rect 127 11 131 14
+rect 199 11 203 20
+rect 395 12 396 16
+rect -27 7 -3 11
+rect 127 7 151 11
+rect 179 7 203 11
+rect 423 9 433 13
+rect 475 10 476 14
+rect 558 7 560 11
+rect 35 4 39 5
+rect 567 4 571 14
+rect -54 0 0 4
+rect 32 0 41 4
+rect 73 0 82 4
+rect 104 0 113 4
+rect 135 0 144 4
+rect 196 0 210 4
+rect 227 0 236 4
+rect 389 0 522 4
+rect 567 0 602 4
+<< metal2 >>
+rect -78 60 -75 64
+rect 540 61 560 65
+rect 213 53 288 57
+rect 292 53 382 57
+rect 399 49 403 57
+rect 458 53 521 57
+rect 525 53 577 57
+rect 24 45 403 49
+rect -64 30 -43 34
+rect -39 30 -5 34
+rect 24 30 28 45
+rect 433 42 437 43
+rect 476 43 480 44
+rect 202 30 203 34
+rect 207 30 209 34
+rect 386 28 505 32
+rect -48 20 -44 22
+rect -10 24 -5 26
+rect -6 22 -5 24
+rect 35 9 39 10
+rect 65 8 69 26
+rect 100 20 199 24
+rect 203 23 489 24
+rect 203 20 485 23
+rect 390 12 391 16
+rect 475 10 476 14
+rect 480 10 511 14
+rect 432 8 436 9
+rect 65 4 436 8
+rect 552 7 554 11
+<< metal3 >>
+rect -83 64 -77 69
+rect -83 60 -82 64
+rect -78 60 -77 64
+rect -83 -5 -77 60
+rect -49 20 -43 69
+rect -49 16 -48 20
+rect -44 16 -43 20
+rect -49 -5 -43 16
+rect -6 26 0 69
+rect -6 22 -5 26
+rect -1 22 0 26
+rect -6 -5 0 22
+rect 34 14 40 69
+rect 208 57 214 69
+rect 208 53 209 57
+rect 213 53 214 57
+rect 208 52 214 53
+rect 34 10 35 14
+rect 39 10 40 14
+rect 34 -5 40 10
+rect 208 34 214 35
+rect 208 30 209 34
+rect 213 30 214 34
+rect 208 -5 214 30
+rect 385 16 391 69
+rect 385 12 386 16
+rect 390 12 391 16
+rect 385 -5 391 12
+rect 432 47 438 69
+rect 432 43 433 47
+rect 437 43 438 47
+rect 432 -5 438 43
+rect 475 48 481 69
+rect 475 44 476 48
+rect 480 44 481 48
+rect 475 -5 481 44
+rect 510 14 516 69
+rect 510 10 511 14
+rect 515 10 516 14
+rect 510 -5 516 10
+rect 535 65 541 69
+rect 535 61 536 65
+rect 540 61 541 65
+rect 535 -5 541 61
+rect 547 11 553 69
+rect 547 7 548 11
+rect 552 7 553 11
+rect 547 -5 553 7
+<< polycontact >>
+rect 566 61 570 65
+rect 293 53 297 57
+rect 377 53 381 57
+rect 529 53 533 57
+rect -48 30 -44 34
+rect 7 30 11 34
+rect 216 30 220 34
+rect 433 33 437 37
+rect 476 34 480 38
+rect -65 22 -61 26
+rect -10 14 -6 18
+rect -61 7 -57 11
+rect 396 12 400 16
+rect -3 7 1 11
+rect 151 7 155 11
+rect 175 7 179 11
+rect 471 10 475 14
+rect 560 7 564 11
+<< m2contact >>
+rect -75 60 -71 64
+rect 560 61 564 65
+rect 288 53 292 57
+rect 382 53 386 57
+rect 403 53 407 57
+rect 454 53 458 57
+rect 521 53 525 57
+rect 577 53 581 57
+rect 433 38 437 42
+rect -68 30 -64 34
+rect -5 30 -1 34
+rect 203 30 207 34
+rect 476 39 480 43
+rect 24 26 28 30
+rect 65 26 69 30
+rect 382 28 386 32
+rect 505 28 509 32
+rect -48 22 -44 26
+rect -10 20 -6 24
+rect 96 20 100 24
+rect 199 20 203 24
+rect 485 19 489 23
+rect 391 12 395 16
+rect 35 5 39 9
+rect 433 9 437 13
+rect 476 10 480 14
+rect 554 7 558 11
+<< m3contact >>
+rect -82 60 -78 64
+rect 536 61 540 65
+rect 209 53 213 57
+rect 433 43 437 47
+rect 476 44 480 48
+rect 209 30 213 34
+rect -5 22 -1 26
+rect -48 16 -44 20
+rect 35 10 39 14
+rect 386 12 390 16
+rect 511 10 515 14
+rect 548 7 552 11
+use full_adder  full_adder_1
+timestamp 1734625758
+transform 1 0 236 0 1 14
+box 0 -14 154 50
+use inv  inv_0
+timestamp 1734626176
+transform 1 0 113 0 1 14
+box 0 -14 22 50
+use inv  inv_1
+timestamp 1734626176
+transform 1 0 82 0 1 14
+box 0 -14 22 50
+use inv  inv_2
+timestamp 1734626176
+transform -1 0 227 0 1 14
+box 0 -14 22 50
+use inv  inv_3
+timestamp 1734626176
+transform -1 0 544 0 1 14
+box 0 -14 22 50
+use inv  inv_4
+timestamp 1734626176
+transform 1 0 -72 0 1 14
+box 0 -14 22 50
+use mux_2_1  mux_2_1_0
+timestamp 1734626358
+transform 1 0 553 0 1 14
+box 0 -6 32 42
+use mux_2_1  mux_2_1_1
+timestamp 1734626358
+transform 1 0 -41 0 1 14
+box 0 -6 32 42
+use mux_4_1  mux_4_1_0
+timestamp 1734629465
+transform 1 0 399 0 1 4
+box -1 -2 114 49
+use nand  nand_0
+timestamp 1734627535
+transform 1 0 0 0 1 14
+box 0 -14 32 50
+use nor  nor_0
+timestamp 1734627670
+transform 1 0 41 0 1 14
+box 0 -14 32 50
+use xnor  xnor_0
+timestamp 1734625935
+transform 1 0 144 0 1 14
+box 0 -14 52 50
+use xor  xor_0
+timestamp 1734625935
+transform 1 0 144 0 1 14
+box 0 0 1 1
+<< labels >>
+flabel m2contact 505 28 509 32 4 FreeMono 40 0 0 0 NSUM
+flabel metal1 567 0 602 4 0 FreeMono 40 0 0 0 R
+flabel m2contact 403 53 407 57 3 FreeMono 40 0 16 0 NAND
+flabel metal3 209 -5 213 -1 3 FreeMono 40 0 24 0 CarryOut
+flabel m2contact 433 9 437 13 0 FreeMono 40 0 0 40 NOR
+flabel m2contact 485 19 489 23 6 FreeMono 40 0 0 0 XNOR
+flabel metal3 208 64 214 69 0 FreeMono 40 0 0 0 CarryIn
+port 20 nsew
+flabel metal3 385 64 391 69 0 FreeMono 40 0 0 0 OP0
+port 24 nsew
+flabel metal3 432 64 438 69 0 FreeMono 40 0 0 0 NOP0
+port 26 nsew
+flabel metal3 475 64 481 69 0 FreeMono 40 0 0 0 OP1
+port 28 nsew
+flabel metal3 510 64 516 69 0 FreeMono 40 0 0 0 NOP1
+port 30 nsew
+flabel metal3 535 65 541 69 1 FreeMono 40 0 0 40 InvOut
+port 40 n
+flabel metal3 547 65 553 69 3 FreeMono 40 0 0 0 NInvOut
+port 43 e
+flabel metal3 -49 64 -43 69 0 FreeMono 40 0 0 0 InvB
+port 48 nsew
+flabel metal3 -6 64 0 69 0 FreeMono 40 0 0 0 NInvB
+port 50 nsew
+flabel metal3 -83 64 -77 69 0 FreeMono 40 0 0 0 VDD
+port 51 nsew
+flabel metal1 -94 30 -68 34 7 FreeMono 40 0 -64 0 A
+port 53 w
+flabel metal1 -94 22 -65 26 7 FreeMono 40 0 -80 0 B
+port 55 w
+flabel metal3 34 64 40 69 0 FreeMono 40 0 0 0 GND
+port 3 nsew
+<< end >>

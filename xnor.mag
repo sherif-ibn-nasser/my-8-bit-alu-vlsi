@@ -1,0 +1,85 @@
+magic
+tech scmos
+timestamp 1734625935
+<< nwell >>
+rect 0 20 52 40
+rect 4 16 18 20
+<< polysilicon >>
+rect 9 36 13 42
+rect 19 36 23 42
+rect 29 36 33 42
+rect 39 36 43 42
+rect 9 4 13 24
+rect 19 4 23 24
+rect 29 4 33 24
+rect 39 4 43 24
+rect 9 -6 13 0
+rect 19 -6 23 0
+rect 29 -6 33 0
+rect 39 -6 43 0
+<< ndiffusion >>
+rect 8 0 9 4
+rect 13 0 19 4
+rect 23 0 24 4
+rect 28 0 29 4
+rect 33 0 39 4
+rect 43 0 44 4
+<< pdiffusion >>
+rect 8 24 9 36
+rect 13 24 14 36
+rect 18 24 19 36
+rect 23 24 24 36
+rect 28 24 29 36
+rect 33 28 39 36
+rect 33 24 34 28
+rect 38 24 39 28
+rect 43 24 44 36
+<< metal1 >>
+rect 0 46 52 50
+rect 14 36 18 46
+rect 28 32 44 36
+rect 4 20 8 24
+rect 24 20 28 24
+rect 4 16 28 20
+rect 34 20 38 24
+rect 34 16 48 20
+rect 44 12 48 16
+rect 4 8 48 12
+rect 4 4 8 8
+rect 44 4 48 8
+rect 24 -10 28 0
+rect 0 -14 52 -10
+<< ntransistor >>
+rect 9 0 13 4
+rect 19 0 23 4
+rect 29 0 33 4
+rect 39 0 43 4
+<< ptransistor >>
+rect 9 24 13 36
+rect 19 24 23 36
+rect 29 24 33 36
+rect 39 24 43 36
+<< ndcontact >>
+rect 4 0 8 4
+rect 24 0 28 4
+rect 44 0 48 4
+<< pdcontact >>
+rect 4 24 8 36
+rect 14 24 18 36
+rect 24 24 28 36
+rect 34 24 38 28
+rect 44 24 48 36
+<< labels >>
+flabel metal1 0 46 52 50 0 FreeMono 40 0 0 0 VDD
+port 2 nsew
+flabel metal1 0 -14 52 -10 0 FreeMono 40 0 0 0 GND
+port 4 nsew
+flabel polysilicon 9 -6 13 -2 0 FreeMono 40 0 0 0 NX
+port 5 nsew
+flabel polysilicon 29 -6 33 -2 0 FreeMono 40 0 0 0 NY
+port 6 nsew
+flabel polysilicon 19 -6 23 -2 0 FreeMono 40 0 0 0 Y
+port 7 nsew
+flabel polysilicon 39 -6 43 -2 0 FreeMono 40 0 0 0 X
+port 8 nsew
+<< end >>
